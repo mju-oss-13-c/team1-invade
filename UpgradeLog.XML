@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Tritank">
+</Property><Property Name="Solution File" Value="C:\Users\USER\Desktop\TriTank\Tritank.sln">
+</Property><Property Name="Date" Value="2013년 11월 23일 토요일">
+</Property><Property Name="Time" Value="오후 16:33:12">
+</Property></Properties><Event ErrorLevel="0" Project="Tritank" Source="Tritank.vcproj" Description="Converting project file 'C:\Users\USER\Desktop\TriTank\Tritank.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Tritank" Source="Tritank.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Tritank" Source="Tritank.vcproj" Description="Done converting to new project file 'C:\Users\USER\Desktop\TriTank\Tritank.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Tritank" Source="Tritank.vcproj" Description="Converted">
+</Event></UpgradeLog>
